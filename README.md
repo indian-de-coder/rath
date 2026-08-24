@@ -1,5 +1,3 @@
-Absolutely. I’d add it as a small **project philosophy** section, keeping the README technical rather than turning it into a manifesto.
-
 # ROTH 🤖
 
 > **With blessings, we build.**
