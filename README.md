@@ -5,6 +5,28 @@
 
 ROTH is an experimental robotics project built around a modified RC car platform. The goal is to turn a simple toy car into a programmable robotic vehicle with its own control system, motor control, networking, sensing, and eventually autonomous navigation.
 
+The inspiration comes from the Rath Yatra of Lord Jagannath. Every year, a new Rath is built from scratch, piece by piece, and then put to the ultimate test: carrying the traditionally immovable Lord on His journey to His aunt's abode.
+I see something wonderfully engineering-like in this tradition.
+An immovable object is given wheels, a structure, a direction, and a very large job to do. And somehow, it moves.
+That is the spirit behind RATH.
+RATH is my tribute to Lord Jagannath through the language I know best: engineering. I want to put the skills I have gathered over the years into a real machine, discover the gaps in my knowledge, and then fill those gaps by building, testing, breaking, fixing, and building again.
+The objective is not simply to make a vehicle that moves.
+It is to make a machine that learns to move intelligently.
+And there is a small philosophical trick hidden here:
+The Rath moves forward on the road.
+The engineer moves forward in knowledge.
+Every motor that turns, every sensor that gives a strange reading, every bug that refuses to die, and every failed experiment becomes part of the journey. Some days the rover will move forward. Some days it will move backward. Occasionally, it may decide that the wall is its destination. That is also called research. 😄
+RATH is also not meant to be a private kingdom. It is an open invitation.
+Any human or machine that can code is welcome to contribute.
+Bring code, electronics, mechanics, mathematics, algorithms, ideas, criticism, curiosity, or simply a better way of doing something. If you can teach the machine something, you are part of the journey.
+Because RATH is not supposed to be a finished machine.
+It is a machine that is built every year, improved every year, and teaches its builders something new every year.
+The Rath moves forward physically.
+We move forward through knowledge.
+And with the blessings of Lord Jagannath,
+may RATH keep moving forward. 🛞⚙️🧠
+
+
 ## 🚗 Current Platform
 
 The project started with a **360° stunt RC car** as the mechanical base.
