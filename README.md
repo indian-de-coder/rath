@@ -1,7 +1,7 @@
-RATH 🤖
+# RATH 🤖
 
-«With blessings, we build.
-With purpose, we progress.»
+With blessings, we build.
+With purpose, we progress.
 
 RATH is an experimental robotics project inspired by the tradition of Rath Yatra of Lord Jagannath.
 
@@ -14,8 +14,8 @@ RATH is not intended to be completed in a single iteration.
 Every Rath Yatra is an iteration.
 
 ---
-
-CONTEXT
+ 
+## CONTEXT
 
 The inspiration comes from the tradition of Rath Yatra of Lord Jagannath.
 
@@ -31,7 +31,7 @@ That is the spirit behind RATH.
 
 ---
 
-PHILOSOPHY
+## PHILOSOPHY
 
 This project is an attempt to carry that tradition forward with modern technology.
 
@@ -51,7 +51,7 @@ The ultimate objective is simple:
 
 ---
 
-THE ENGINEERING PRINCIPLE
+## THE ENGINEERING PRINCIPLE
 
 Before making the RATH intelligent, we must first make it measurable.
 
@@ -74,7 +74,7 @@ The body comes before the brain.
 
 ---
 
-THE AIM
+## THE AIM
 
 1. HARDWARE
 
@@ -123,7 +123,7 @@ The rover becomes the body, while different controllers can become its brain.
 
 ---
 
-FIRST ITERATION
+## FIRST ITERATION
 
 The first iteration is deliberately simple.
 
@@ -165,7 +165,7 @@ Can the system improve over successive runs?
 
 ---
 
-MEASURING PROGRESS
+## MEASURING PROGRESS
 
 Every iteration should produce measurable results.
 
@@ -200,7 +200,7 @@ The goal is to make it better.
 
 ---
 
-LONG-TERM VISION
+## LONG-TERM VISION
 
 The long-term vision is to build a RATH that can make a journey without being given every step of the way.
 
@@ -222,7 +222,7 @@ The architecture should remain open to all of them.
 
 ---
 
-THE ITERATION
+## THE ITERATION
 
 RATH is not a single machine.
 
@@ -246,7 +246,7 @@ And the ultimate objective remains the same:
 
 ---
 
-CONTRIBUTE
+## CONTRIBUTE
 
 Whether you are human or AI, if you can build, code, design, test, document, research, or simply suggest an idea, you are welcome to contribute.
 
@@ -258,7 +258,7 @@ If you can help RATH move one step further, you are contributing to the journey.
 
 ---
 
-THANKS
+## THANKS
 
 Special thanks to:
 
@@ -268,7 +268,7 @@ And to everyone who contributes to the project, whether through code, hardware, 
 
 ---
 
-RATH
+## RATH
 
 With blessings, we build.
 With purpose, we progress.
