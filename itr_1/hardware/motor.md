@@ -20,12 +20,6 @@
 | **Shaft Diameter**              | 5.5 mm                                   |
 | **Shaft Length**                | 7 mm                                     |
 | **Wheel Diameter**              | 65 mm                                    |
-| **Wheel Type**                  | Rubber                                   |
-| **Wheel Loading Capacity**      | 2.5 kg                                   |
-| **Package Quantity**            | 4 Motors + 4 Wheels                      |
-| **Wheel Circumference**         | ≈ 204 mm                                 |
-| **Theoretical Speed @ 100 RPM** | ≈ 34 cm/s                                |
-| **Theoretical Vehicle Speed**   | ≈ 1.23 km/h                              |
 
 ## Link
 
